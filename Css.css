@@ -1,0 +1,24 @@
+body {
+  color: #00008B;
+  background: white;
+}
+
+p {
+ font-family: Arial,sans-serif;
+ font-size: 20px;
+ font-style: italic;
+ font-weight: bold;
+}
+.style {
+	background: FireBrick;
+	color: yellow;
+}
+.container{
+	background: white;
+	color: white;
+}
+
+body{
+	background: url(https://tilos-mag.ru/wa-data/public/shop/products/33/30/3033/images/3407/3407.750.jpg);
+}
+(https://avatanplus.com/files/resources/mid/5c5ae2a8c6ad3168c305636e.png);
